@@ -1,0 +1,7 @@
+build/
+*.csv
+*.png
+*.pdf
+__pycache__/
+.vscode/
+.idea/
